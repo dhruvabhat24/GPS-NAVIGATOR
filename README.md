@@ -30,7 +30,11 @@ GPS Navigator is a web application designed to provide efficient navigation solu
 
 ## Installation and Usage
 
-1. Clone the repository to your local machine using the following command:git clone 
+1. Clone the repository to your local machine using the following command:
+
+   ```
+   git clone https://github.com/Dhruvabhat24/GPS-NAVIGATOR.git
+   ```
 
 2. Navigate to the project directory and open the `index.html` file in your web browser.
 

@@ -20,6 +20,7 @@ body{
     margin: 5px; 
     padding: 10px 20px; 
     background-color: #3b4f60; 
+    font-size: 15px;
     color: whitesmoke; 
     border: none; 
     border-radius: 5px; 
@@ -27,6 +28,11 @@ body{
 }
 
 .controls  button:hover {
-    background-color: #295c89;
+    background-color: #c2d5e5;
+    font-size: 15px;
+    border: none; 
+    margin: 5px; 
+    padding: 10px 20px; 
+    color: black;
 }
 

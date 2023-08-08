@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GPS Navigator</title>
+    <link rel="stylesheet" href="main/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <h1><center>GPS Navigator</center></h1>
+    <div id="map"></div>
+    <div class="controls">
+            <button onclick="resetMap()">Reset Map</button>
+            <button onclick="findShortestPath()">Find Shortest Path</button>
+            <button onclick="createGraphVisualization()">Create Graph Visualization</button>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+    <script src="main/script.js"></script>
+</body>
+</html>

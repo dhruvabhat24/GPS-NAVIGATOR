@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+
+}
+#map {
+    height: 450px;
+}
+
+.controls {
+    margin-top: 10px;
+}
+
+.dark-popup {
+    background-color: #f50101;
+    color: #fff;
+    padding: 10px;
+}
+
+.controls button {
+    margin: 5px; 
+    padding: 10px 20px; 
+    background-color: #3b4f60; 
+    color: whitesmoke; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+.controls  button:hover {
+    background-color: #295c89;
+}
+
